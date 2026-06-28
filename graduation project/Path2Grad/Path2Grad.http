@@ -1,0 +1,6 @@
+@Path2Grad_HostAddress = http://localhost:5274
+
+GET {{Path2Grad_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
